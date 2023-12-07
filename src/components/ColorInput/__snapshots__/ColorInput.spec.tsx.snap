@@ -1,0 +1,70 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Color Input renders component and snaps 1`] = `
+<div>
+  <div
+    class="css-1h1xr4x"
+  >
+    <div
+      class="css-1ofqig9"
+    >
+      <label
+        class="css-0"
+        for="changeColor"
+        hidden=""
+      />
+      <div
+        class="chakra-input__group css-bx0blc"
+        data-group="true"
+      >
+        <div
+          class="chakra-input__left-addon css-1lhl5nw"
+        >
+          <svg
+            class="chakra-icon css-1fnxnin"
+            data-testid="infoIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <g
+              fill="currentColor"
+              stroke="currentColor"
+              stroke-linecap="square"
+              stroke-width="2"
+            >
+              <circle
+                cx="12"
+                cy="12"
+                fill="none"
+                r="11"
+                stroke="currentColor"
+              />
+              <line
+                fill="none"
+                x1="11.959"
+                x2="11.959"
+                y1="11"
+                y2="17"
+              />
+              <circle
+                cx="11.959"
+                cy="7"
+                r="1"
+                stroke="none"
+              />
+            </g>
+          </svg>
+        </div>
+        <input
+          class="chakra-input css-1m5purn"
+          data-testid="colorInput"
+          id="changeColor"
+          name="color"
+          placeholder="Change color"
+          type="text"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

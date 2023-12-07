@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Load More loads component 1`] = `
+<div>
+  <button
+    class="chakra-button css-vkxzif"
+    data-testid="loadMore"
+    type="button"
+  >
+    Load More
+  </button>
+</div>
+`;
